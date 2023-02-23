@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3154e0&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3154e0&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Me+Chamo+Gustavo;Tenho+19+anos+;Sou+Brasileiro;Cursando+Analise+e+Desenvolvimento+de+Sistemas;Seja+bem+vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3154e0&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Me+Chamo+Gustavo;Tenho+19+anos+;Sou+Brasileiro;Cursando+Análise+e+Desenvolvimento+de+Sistemas;Seja+bem+vindo!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Gustavodeoliveiraa&show_icons=true&count_private=true&hide_border=true&title_color=3154e0&icon_color=3154e0&text_color=c9d1d9&bg_color=0d1117" alt="Gustavodeoliveiraa  github stats" /> 
