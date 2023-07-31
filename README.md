@@ -16,7 +16,7 @@
 Olá, me chamo Gustavo, eu tenho 19 anos e estou a caminho de me tornar um desenvolvedor de software/web. Meus projetos principais são em Python, atualmente é a linguagem na qual eu estou estudando.
 
 ## Principais Projetos
-  <a href="https://github.com/Gustavodeoliveiraa/Estoque" target="_blank"> Sistema de Estoque</a>
+  <a href="https://github.com/Gustavodeoliveiraa/Sistema" target="_blank"> Sistema de Estoque</a>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
